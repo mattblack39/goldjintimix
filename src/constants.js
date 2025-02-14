@@ -12,7 +12,7 @@ export const MAIN = {
     "twitter":"",
     "instagram":"",
     "github":"https://github.com/mattblack39",
-    "calendlyLink": "https://calendly.com/mattblack-blackmon/30-minute-meeting"
+    "calendlyLink": "https://calendly.com/mattblack-blackmon/interview"
   },
   "homepage":{
     "top":{

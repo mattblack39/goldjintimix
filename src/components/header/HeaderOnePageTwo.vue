@@ -69,6 +69,7 @@
       <a
         class="rn-btn"
         :href="CONSTS.MAIN.basic.calendlyLink"
+        target="_blank"
       >
         <span>Let's CALL</span>
       </a>
