@@ -5,10 +5,10 @@ export const MAIN = {
   "basic":{
     "firstName":"Matthew",
     "lastName":"Blackmon",
-    "email":"mattblack39@yahoo.com",
+    "email":"matthewchrisblackmon39@gmail.com",
     "logo":"https://i.ibb.co/mDqB0ys/49536502-biceps-flex-arm-vector-icon.jpg",
     "facebook":"",
-    "linkedin":"https://www.linkedin.com/in/grandadmiralmcb/",
+    "linkedin":"https://www.linkedin.com/in/matthewcblackmon",
     "twitter":"",
     "instagram":"",
     "github":"https://github.com/mattblack39",
@@ -17,44 +17,79 @@ export const MAIN = {
   "homepage":{
     "top":{
       "title":"Senior Software Engineer",
-      "backImage":"https://i.ibb.co/JFgj7Jh/whoami.png"
+      "backImage":"https://i.ibb.co/zhKn2Jbr/premium-photo-1661877737564-3dfd7282efcb.jpg"
     },
     "aboutMe":{
-      "image":"https://i.ibb.co/1npX09K/avatar.jpg",
+      "image":"https://i.ibb.co/k2DYGWSx/images.jpg",
       "desc":"I am an industry-specific technology expert with decade of combined experience delivering interoperable, scalable, and flexible web & mobile applications for all kinds of industries.",
       "skills":[
         {
           "name":"Expertise",
           "details":[
             {
-              "title":"1. Back-end",
+              "title":"1. Programming Languages & Frameworks",
               "org":"",
               "subtitle":"",
-              "desc":["Ruby/Ruby on Rails/Sinatra/Spree/Solidus/Grape", "NodeJS/ExpressJS/HapiJS/SailsJS/NestJS", "Python/Django"]
+              "desc":[
+                "Ruby: Ruby on Rails, Sinatra, Spree/Solidus, Discourse, ActiveAdmin",
+                "Java: Spring, Hibernate, Struts",
+                "Python: Django, Flask, CherryPy, BeatifulSoup",
+                "JavaScript: ES6, CoffeeScript, TypeScript",
+                "Node.js: Express.js, Hapi.js, Sails.js, NestJS",
+                "C#: .NET Framework, ASP.NET, ASP.NET Core, Entity Framework, Blazor"
+              ]
             },
             {
               "title":"2. Front-end",
               "org":"",
               "subtitle":"",
-              "desc":["Javascript/Coffeescript/es6/Typescript", "ReactJS/Next JS/GatsbyJS(SSR)", "Angular1.x/Angular2+", "VueJS/NuxtJS/Vuetify"]
+              "desc":[
+                "Angular: Angular 1.x, Angular 2+",
+                "React.js: Next.js, Gatsby.js (SSR), React Hooks, Redux (Saga/Thunk/Rematch)",
+                "Vue.js: Nuxt.js, Vuetify"
+              ]
             },
             {
-              "title":"3. Storage",
+              "title":"3. Databases & Caching",
               "org":"",
               "subtitle":"",
-              "desc":["PostgreSQL/MySQL/MSSQL", "MongoDB/DynamoDB/CouchDB/Cassandra", "Elasticsearch/Algoliasearch", "Redis/Memcache"]
+              "desc":[
+                "Relational Databases: PostgreSQL, MySQL, MSSQL",
+                "NoSQL Databases: MongoDB, DynamoDB, CouchDB, Cassandra",
+                "Search Engines: Elasticsearch, AlgoliaSearch",
+                "Caching: Redis, Memcached"
+              ]
             },
             {
               "title":"4. Test",
               "org":"",
               "subtitle":"",
-              "desc":["Rspec/Selenium/Capybara/Cucumber", "Mocha/Chai/Jasmine/Jest/Karma", "Cypress/Solidity/Zapier/Work automation"]
+              "desc":[
+                "Ruby Testing: RSpec, Cucumber, Minitest, Capybara, Selenium",
+                "JavaScript Testing: Cypress, Mocha/Chai, Jasmine, Jest, Karma",
+                "Java Testing: JUnit, TestNG, Mockito, Selenium, Cucumber",
+                "Django Testing: PyTest, Django Test Client, Selenium, UnitTest",
+                ".NET Testing: NUnit, MSTest, xUnit, Moq, Selenium",
+                "Other: Solidity (Smart Contract Testing), Zapier (Work Automation)"
+              ]
             },
             {
               "title":"5. DevOps",
               "org":"",
               "subtitle":"",
-              "desc":["AWS/Microsoft Azure/Google Cloud/Oracle/Digital Ocean/Heroku", "Docker/Kubernetes"]
+              "desc":[
+                "CI/CD: Jenkins, CircleCI, Travis CI, GitLab CI",
+                "Containerization & Orchestration: Docker, Kubernetes",
+                "Cloud Platforms: AWS, Azure, Heroku, DigitalOcean, Amplify"
+              ]
+            },
+            {
+              "title":"6. Security",
+              "org":"",
+              "subtitle":"",
+              "desc":[
+                "WS-Security, OAuth 2.0, SAML, Single Sign-On (SSO), HIPAA Compliance",
+              ]
             }
           ]
         },
@@ -65,19 +100,31 @@ export const MAIN = {
               "title":"Founder",
               "org":"Linked NC",
               "subtitle":"Jun 2019 - Present",
-              "desc":"Working as an independent freelancer with Ruby on Rails and many variants of Javascript technologies."
+              "desc": "Led the development and optimization of a high-performance, scalable web application using modern web frameworks while implementing robust security, performance enhancements, and efficient CI/CD pipelines, and designing seamless integrations for various third-party services."
             },
             {
               "title":"Chief Technology Officer",
               "org":"ShyftAuto",
-              "subtitle":"Jun 2017 - Jun 2019",
-              "desc":"Shyft Auto Technology helps consumers with a new set of interfaces that redefine how consumers interact with their automotive partners. Shyft's service valet allows consumers to enjoy unprecedented freedom while optimizing their automotive service experience and meeting their maintanence needs. Shyft's partners will enjoy happier consumers and increased traffic to their locations thanks to the prestige and ease of Shyft Auto Technology innovations."
+              "subtitle":"Jun 2017 - Aug 2022",
+              "desc":"Spearheaded the development of the Shyft Auto Technology platform, increasing partner traffic by 25% and customer satisfaction by 35%, while leading a team of 8 developers to optimize back-end systems on AWS, integrate secure authentication, and drive digital transformation strategies for improved user and partner engagement."
+            },
+            {
+              "title":"Interim Chief Technology Officer",
+              "org":"Entrepenuership Platform",
+              "subtitle":"Aug 2018 - Jun 2019",
+              "desc":"Utilized SaaS technology and agile methodologies to streamline startup setups, enabling entrepreneurs to scale efficiently and accelerate time-to-market for new ventures."
+            },
+            {
+              "title":"Interim Chief Technology Officer",
+              "org":"Social Media Company",
+              "subtitle":"Aug 2018 - Jun 2019",
+              "desc":"Led growth strategies for a social networking platform, expanding monetization in new markets, optimizing performance, and accelerating the launch of new features using agile methodologies."
             },
             {
               "title":"Senior Software Engineer",
-              "org":"Game Plan by Game Theory Group International",
+              "org":"Game Theory Group International",
               "subtitle":"Jun 2013 - Dec 2017",
-              "desc":"The Game Plan curriculum is designed to enable the development of simple habits and disciplines critical to achieving excellence as a student, athlete and future professional."
+              "desc":"Led development for the Game Plan curriculum platform, boosting user engagement by 40% through UI/UX improvements and reducing production bugs by 30% with automated testing."
             }
           ]
         },
@@ -85,7 +132,7 @@ export const MAIN = {
           "name":"Education",
           "details":[
             {
-              "title":"Bachelor of Science in Computer Science",
+              "title":"Associate's degree",
               "org":"East Carolina University",
               "subtitle":"Aug 2006 - May 2013",
               "desc":"Computer Science and Philosophy Double Major with a minor in Science."
@@ -228,13 +275,11 @@ export const PROJECTS = [
       "https://i.ibb.co/Zd0M1g9/fountain-4.png",
     ],
     "desc": [
-      "Multi-tenant based enterprise app composed of many micro-services",
-      "Master/Slave db setup with PostgreSQL",
-      "Elasticsearch integration",
-      "Stripe/Chargebee Payment Gateway integration",
-      "GoodHire/HireRight Integration",
-      "Advanced/optimized tech for background process management using enterprise sidekiq",
-      "Various 3rd party job boards integration",
+      "Architecture and Design: Built a multi-tenant application using a microservices architecture for modularity, scalability, and maintainability, with isolated data and configurations for each tenant.",
+      "Data Management and Optimization: Implemented a master/slave database setup to handle millions of records with high availability, employing Elasticsearch for efficient indexing, optimized search performance, and scalability.",
+      "Dockerization: Deployed containerized services with Kubernetes and automated workflows using GitLab CI/CD.",
+      "Customer Security: Incorporated advanced security protocols like WS-Security and OAuth to protect user data.",
+      "Automation and Internationalization: Integrated advanced job processing with Sidekiq Enterprise, supporting prioritization, retries, and monitoring, while enabling seamless auto-translation for localization and global reach."
     ],
     "link": "https://www.fountain.com",
     "techStack": [
@@ -255,12 +300,10 @@ export const PROJECTS = [
       "https://i.ibb.co/4sGpWZg/halontax-4.png",
     ],
     "desc": [
-      "Multi-tenant based app with dedicated micro-services for different types of tax form",
-      "Using resourceful payment gateways including stripe, braintree, amazonpay, plaid, etc",
-      "Accurate Background check/Sterling/Recruitics integration",
-      "HelloSign/Docusign Integration",
-      "Number of cron jobs to manage the different customer requests",
-      "Integrated with 3rd party tax form services to accodomate the demands for different businesses",
+      "Tax Form Integration: Integrated with various tax forms to streamline tax-related processes and ensure compliance with relevant regulations.",
+      "Page Builder Integration: Integrated with Paperbits CMS to provide a flexible page builder for easy content creation, management, and customization without requiring technical expertise.",
+      "Drag-and-Drop Functionality: Implemented drag-and-drop capabilities, enabling users to easily arrange and organize content and elements within the interface.",
+      "Time Scheduling Features: Incorporated time scheduling functionalities, allowing users to plan and schedule tasks or events efficiently within the platform.",
     ],
     "link": "https://www.halontax.com",
     "techStack": [
@@ -281,11 +324,9 @@ export const PROJECTS = [
       "https://i.ibb.co/cxyrVSy/dstld-4.png",
     ],
     "desc": [
-      "Spree/Solidus based e-commerce platform",
-      "Full customization over orders, shipments, products, promotions",
-      "Integrated with 3rd party shipment services like Shippo and FreightPOP",
-      "Google Analytics/Adwords/Tag Manager Integration",
-      "Push notification using Onesignal",
+      "Built with Solidus: Developed using the Solidus e-commerce framework, providing a robust and flexible foundation for building scalable, high-performance online stores.",
+      "Full Customization of Admin Features: Offers full customization of the admin panel, enabling tailored management of products, orders, shipments, and promotions, optimizing the backend workflow for e-commerce administrators.",
+      "Custom AngularJS Integration: Integrated custom AngularJS components to enhance UI/UX, ensuring a dynamic, responsive, and user-friendly frontend experience.",
     ],
     "link": "https://www.dstld.com",
     "techStack": [
@@ -307,11 +348,10 @@ export const PROJECTS = [
        "https://i.ibb.co/f1KNfDh/milanote-5.png",
     ],
     "desc": [
-      "Typescript based RESTful api server built on express.",
-      "TikTok API integration.",
-      "Drag & Drop Form",
-      "Vetty/Ubble integration",
-      "Hotjar api integration",
+      "React with Latest Hooks: Developed using the latest React Hooks, ensuring a modern, functional, and clean approach to managing state and side effects in the frontend.",
+      "Firebase Cloud Functions & Firestore: Built on Firebase Cloud Functions for serverless backend logic, and Firestore for real-time NoSQL data storage, ensuring scalability and flexibility.",
+      "CMS for Content Management: Integrated with a Content Management System (CMS) to efficiently manage and update content, streamlining editorial workflows and reducing manual intervention.",
+      "Authentication: Focused on security, implementing OAuth 2.0 and SSO for seamless and secure user authentication.",
     ],
     "techStack": [
        "ReactJS", "Redux", "Bootstrap", "MongoDB", "AWS"
@@ -333,9 +373,9 @@ export const PROJECTS = [
       "https://i.ibb.co/2hg6jtD/screencapture-capimpact-2021-03-24-04-34-27.png"
     ],
     "desc": [
-      "CapBusiness tool for compaines",
-      "Backend built in NestJS + PostgreSQL.",
-      "Frontend built in React",
+      "CapBusiness Tool for Companies: A comprehensive solution tailored for businesses, streamlining operations and improving productivity with an intuitive user interface and robust features.",
+      "Backend with NestJS & PostgreSQL: Built using NestJS for a scalable and modular backend architecture, paired with PostgreSQL for a reliable, relational database solution, ensuring optimal performance and data integrity.",
+      "Frontend with React: Developed with the latest React features, including Hooks, for a modern, efficient, and maintainable user interface. React’s component-driven architecture ensures scalability and flexibility in managing state and side effects.",
     ],
     "link": "https://testautomationu.applitools.com",
     "techStack": [
@@ -356,9 +396,10 @@ export const PROJECTS = [
       "https://i.ibb.co/nrnNKbp/monsido-4.png",
     ],
     "desc": [
-      "Built with ruby-grape that supports DSL for RESTful apis",
-      "Database shard/replicas for dealing with hundreds of thousands of data",
-      "Angular10-based front-end integrated with angular material UI",
+      "API Development and Documentation: Developed RESTful APIs using Ruby Grape, leveraging its DSL for streamlined design and management, and integrated Swagger to generate interactive, user-friendly API documentation.",
+      "Database Scalability and Performance: Implemented database sharding and replication to handle high-volume data efficiently, ensuring improved performance and high availability.",
+      "Testing and Reliability: Achieved 100% test coverage with Minitest for robust API reliability and conducted automated UX testing with Selenium and Capybara to ensure a seamless user experience.",
+      "Containerization: Deployed Kubernetes for containerized services and automated CI/CD workflows for efficient releases.",
     ],
     "link": "https://www.monsido.com",
     "techStack": [
@@ -379,10 +420,10 @@ export const PROJECTS = [
       "https://i.ibb.co/hyT5z7W/healthiq-4.png",
     ],
     "desc": [
-      "Built on ruby on rails + backboneJS",
-      "Hippa Compliance App",
-      "Insurance form management",
-      "Yardstik/Zapier integration"
+      "HIPAA Compliance: Developed with a focus on HIPAA compliance, ensuring the app meets stringent requirements for handling healthcare data securely and maintaining user privacy.",
+      "Insurance Form Management: Streamlined insurance form management, enabling efficient creation, storage, and processing of forms to improve operational workflows.",
+      "Salesforce Integration: Integrated with Salesforce to synchronize customer data, streamline sales processes, and provide enhanced CRM capabilities.",
+      "Payment Gateway Integration: Integrated with Stripe and Braintree for secure, scalable payment processing, supporting various payment methods and ensuring smooth financial transactions.",
     ],
     "link": "https://www.healthiq.com",
     "techStack": [
@@ -407,11 +448,10 @@ export const PROJECTS = [
       "https://i.ibb.co/ryy15z5/screencapture-courses-openmined-org-2021-03-24-04-26-09.png"
     ],
     "desc": [
-      "Learning platform offered by Openmined.org.",
-      "Backend bulit in Firebase clouding functions and firestore.",
-      "Frontend built in React and latest Hooks.",
-      "Content management using CMS.",
-      "Verifiable/Lessonly Integration",
+      "React with Latest Hooks: Developed using the latest React Hooks, ensuring a modern, functional, and clean approach to managing state and side effects in the frontend.",
+      "Firebase Cloud Functions & Firestore: Built on Firebase Cloud Functions for serverless backend logic, and Firestore for real-time NoSQL data storage, ensuring scalability and flexibility.",
+      "CMS for Content Management: Integrated with a Content Management System (CMS) to efficiently manage and update content, streamlining editorial workflows and reducing manual intervention.",
+      "Authentication: Focused on security, implementing OAuth 2.0 and SSO for seamless and secure user authentication.",
     ],
     "link": "https://courses.openmined.org/",
     "techStack": [
@@ -431,11 +471,9 @@ export const PROJECTS = [
        "https://i.ibb.co/wzFDKs6/Screenshot-from-2021-03-24-03-16-48.png"
     ],
     "desc": [
-       "Implemented the UI for Symon.AI, a machine learning pipeline, using React, Redux, TypeScript, and PostCSS.",
-       "Owned the hiring and onboarding of new UI developers.",
-       "Integrated with Intercom, Upscope, and WalkMe to provide a premium experience educating and helping users.",
-       "Collaborated with product management to make decisions on what features are most valuable.",
-       "Led a team of five software developers to implement the UI for all new product features.",
+      "UI for Symon.AI: Developed a user-friendly interface for Symon.AI, designed to enhance user interaction with AI-driven features and provide intuitive access to its capabilities.",
+      "Machine Learning Pipeline: Implemented a robust machine learning pipeline, enabling efficient data processing, model training, and deployment to support AI functionalities.",
+      "Integrated with Intercom, Upscope, and WalkMe: Seamlessly integrated with Intercom, Upscope, and WalkMe to deliver a premium user experience, providing real-time support, user guidance, and interactive onboarding.",
     ],
     "techStack": [
        "TypeScript", "RxJS", "Redux", "React", "Webpack", "Web UI", "ECharts", "PostCSS"
@@ -454,9 +492,9 @@ export const PROJECTS = [
        "https://i.ibb.co/cb8P5fz/justaskme-5.png",
     ],
     "desc": [
-      "Built on MERN stack.",
-      "React Material UI integration.",
-      "Stripe payment gateway integration.",
+      "Built on MERN Stack: Developed using the MERN (MongoDB, Express, React, Node.js) stack, providing a full-stack JavaScript solution for seamless integration, scalability, and performance across the entire application.",
+      "React Material UI Integration: Leveraged Material UI components for a polished and responsive design, ensuring a consistent, user-friendly interface with a modern aesthetic and high usability.",
+      "Stripe Payment Gateway Integration: Integrated Stripe for secure and seamless payment processing, enabling a smooth transaction experience with features like recurring payments and fraud protection."
     ],
     "techStack": [
        "ReactJS", "Redux", "React Material UI", "MongoDB", "Azure",
