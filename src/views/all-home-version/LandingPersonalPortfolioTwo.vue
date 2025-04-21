@@ -13,7 +13,7 @@
         <BannerThree>
           <span slot="designation"><span style="color: #000">{{ CONSTS.MAIN.homepage.top.title }}</span></span>
           <h1 class="heading-title" slot="heading-title">
-            <div>I’m <span>{{ CONSTS.MAIN.basic.firstName }}</span></div>
+            <div>I’m <span>{{ CONSTS.MAIN.basic.firstName }} {{ CONSTS.MAIN.basic.lastName }}</span></div>
             <div>Welcome to my World.</div>
           </h1>
         </BannerThree>

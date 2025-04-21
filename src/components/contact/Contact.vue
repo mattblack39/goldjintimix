@@ -22,7 +22,9 @@
       <div class="section-title text-left mb--50 mb_sm--30 mb_md--30">
         <h2 class="heading-title">or Contact Me.</h2>
         <p class="description">
-          I will reach back as soon as I get the request.
+          I will reach back as soon as I get the request. Alternatively, feel free to contact me directly at 
+  <a href="mailto:goldjin354@gmail.com">goldjin354@gmail.com</a> or by phone at 
+  <a href="tel:+16092414413">+1 (609) 241-4413</a>.
         </p>
       </div>
       <div class="form-wrapper">

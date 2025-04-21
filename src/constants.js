@@ -3,16 +3,16 @@ export const API_BASE_URL = `https://my-json-server.typicode.com/Itsolution-git/
 
 export const MAIN = {
   "basic":{
-    "firstName":"Matthew",
-    "lastName":"Blackmon",
-    "email":"matthewchrisblackmon39@gmail.com",
+    "firstName":"Gold",
+    "lastName":"Jin Timix",
+    "email":"goldjin354@gmail.com",
     "logo":"https://i.ibb.co/mDqB0ys/49536502-biceps-flex-arm-vector-icon.jpg",
     "facebook":"",
-    "linkedin":"https://www.linkedin.com/in/matthewcblackmon",
+    "linkedin":"",
     "twitter":"",
     "instagram":"",
-    "github":"https://github.com/mattblack39",
-    "calendlyLink": "https://calendly.com/mattblack-blackmon/interview"
+    "github":"",
+    "calendlyLink": "https://calendly.com/goldjin354/30min"
   },
   "homepage":{
     "top":{
@@ -31,11 +31,10 @@ export const MAIN = {
               "org":"",
               "subtitle":"",
               "desc":[
-                "Ruby: Ruby on Rails, Sinatra, Spree/Solidus, Discourse, ActiveAdmin",
-                "Java: Spring, Hibernate, Struts",
                 "Python: Django, Flask, CherryPy, BeatifulSoup",
                 "JavaScript: ES6, CoffeeScript, TypeScript",
                 "Node.js: Express.js, Hapi.js, Sails.js, NestJS",
+                "Ruby: Ruby on Rails, Sinatra, Spree/Solidus, Discourse, ActiveAdmin",
                 "C#: .NET Framework, ASP.NET, ASP.NET Core, Entity Framework, Blazor"
               ]
             },
@@ -44,7 +43,6 @@ export const MAIN = {
               "org":"",
               "subtitle":"",
               "desc":[
-                "Angular: Angular 1.x, Angular 2+",
                 "React.js: Next.js, Gatsby.js (SSR), React Hooks, Redux (Saga/Thunk/Rematch)",
                 "Vue.js: Nuxt.js, Vuetify"
               ]
@@ -65,10 +63,9 @@ export const MAIN = {
               "org":"",
               "subtitle":"",
               "desc":[
-                "Ruby Testing: RSpec, Cucumber, Minitest, Capybara, Selenium",
-                "JavaScript Testing: Cypress, Mocha/Chai, Jasmine, Jest, Karma",
-                "Java Testing: JUnit, TestNG, Mockito, Selenium, Cucumber",
                 "Django Testing: PyTest, Django Test Client, Selenium, UnitTest",
+                "JavaScript Testing: Cypress, Mocha/Chai, Jasmine, Jest, Karma",
+                "Ruby Testing: RSpec, Cucumber, Minitest, Capybara, Selenium",                
                 ".NET Testing: NUnit, MSTest, xUnit, Moq, Selenium",
                 "Other: Solidity (Smart Contract Testing), Zapier (Work Automation)"
               ]
@@ -97,10 +94,10 @@ export const MAIN = {
           "name":"Careers",
           "details":[
             {
-              "title":"Founder",
-              "org":"Linked NC",
-              "subtitle":"Jun 2019 - Present",
-              "desc": "Led the development and optimization of a high-performance, scalable web application using modern web frameworks while implementing robust security, performance enhancements, and efficient CI/CD pipelines, and designing seamless integrations for various third-party services."
+              "title":"Senior Full Stack Developer",
+              "org":"Deliver-ME",
+              "subtitle":"Jun 2018 - Present",
+              "desc": "Now I am working on this project which is based on Python/Django. Actually I am working as a lead developer who has responsible to build both Front-end(React/Redux) and Back-end(Python/Django). Back-end serves RESTful apis and Front-end retrives data from back-end and shows to users. It is a logistics platform which has many chron jobs(background services) to process various kind of flows."
             },
             {
               "title":"Chief Technology Officer",
@@ -109,22 +106,22 @@ export const MAIN = {
               "desc":"Spearheaded the development of the Shyft Auto Technology platform, increasing partner traffic by 25% and customer satisfaction by 35%, while leading a team of 8 developers to optimize back-end systems on AWS, integrate secure authentication, and drive digital transformation strategies for improved user and partner engagement."
             },
             {
-              "title":"Interim Chief Technology Officer",
-              "org":"Entrepenuership Platform",
-              "subtitle":"Aug 2018 - Jun 2019",
-              "desc":"Utilized SaaS technology and agile methodologies to streamline startup setups, enabling entrepreneurs to scale efficiently and accelerate time-to-market for new ventures."
+              "title":"React/Redux Front-end Developer",
+              "org":"MySoundSafe",
+              "subtitle":"Jan 2020 - Jan 2021",
+              "desc":"I worked on this project over a year. I have been involved with a great team; my role was implementing Front end mockup designs of their site which provides peoples can upload their music files onto place where is really safe. Actually, I didn't touch backend code which was based on JavaScript and IOTA Tangle.io). I built front-end by using React/Redux."
             },
             {
-              "title":"Interim Chief Technology Officer",
-              "org":"Social Media Company",
-              "subtitle":"Aug 2018 - Jun 2019",
-              "desc":"Led growth strategies for a social networking platform, expanding monetization in new markets, optimizing performance, and accelerating the launch of new features using agile methodologies."
+              "title":"Python/Django Developer",
+              "org":"Cloudmeb",
+              "subtitle":"Nov 2017 – Dec 2019",
+              "desc":"It was a web project which I worked for a Canadian client. His site was based on Python/Django. He wanted me to maintain his site. I worked over 2 years but it was a part-time job."
             },
             {
-              "title":"Senior Software Engineer",
-              "org":"Game Theory Group International",
-              "subtitle":"Jun 2013 - Dec 2017",
-              "desc":"Led development for the Game Plan curriculum platform, boosting user engagement by 40% through UI/UX improvements and reducing production bugs by 30% with automated testing."
+              "title":"Front-end Developer",
+              "org":"Playven",
+              "subtitle":"Oct 2016 – Oct 2017",
+              "desc":"I've been involved with Playven dev team and built a gorgeous web application which serves people to book tennis venue. Actually, I've built authorization flow by using OAuth."
             }
           ]
         },
@@ -133,9 +130,32 @@ export const MAIN = {
           "details":[
             {
               "title":"Associate's degree",
-              "org":"East Carolina University",
-              "subtitle":"Aug 2006 - May 2013",
+              "org":"The University of Queensland",
+              "subtitle":"Aug 2008 - May 2013",
               "desc":"Computer Science and Philosophy Double Major with a minor in Science."
+            },
+          ]
+        },
+        {
+          "name":"Contact",
+          "details":[
+            {
+              "title":"",
+              "org":"",
+              "subtitle":"",
+              "desc":"Personal Email: goldjin354@gmail.com"
+            },
+            {
+              "title":"",
+              "org":"",
+              "subtitle":"",
+              "desc":"Business Email: goldj@deliver-me.com.au"
+            },
+            {
+              "title":"",
+              "org":"",
+              "subtitle":"",
+              "desc":"Phone Number: +1 (609) 2414413"
             },
           ]
         },
@@ -153,11 +173,11 @@ export const MAIN = {
     "skills": [
        {
           "label": "Languages",
-          "details": "JavaScript, Typescript, SQL, HTML, CSS, Python",
+          "details": "Python, JavaScript, Typescript, SQL, HTML, CSS",
        },
        {
           "label": "Frameworks",
-          "details": "NestJS, Express, Loopback, Cypress, React, Vue",
+          "details": "Django, NestJS, Express, React, Vue",
        },
        {
           "label": "Storage",
@@ -169,11 +189,11 @@ export const MAIN = {
        },
        {
           "label": "Other",
-          "details": "Cryptocurrency, Solidity, Zapier, Work automation",
+          "details": "Cryptocurrency, Solidity, Stripe, Zapier, Work automation",
        }
     ],
     "preferredEnv": {
-       "desc": "Visual Studio, Sublime, Ubuntu 20.0, Bash"
+       "desc": "Visual Studio, Sublime, Ubuntu, Bash, Gitlab"
     },
     "skillByYear": [
        {
@@ -185,16 +205,16 @@ export const MAIN = {
           "years": 8,
        },
        {
+          "label": "Python",
+          "years": 8,
+       },
+       {
           "label": "VueJS",
           "years": 5,
        },
        {
           "label": "React",
           "years": 6,
-       },
-       {
-          "label": "React Native",
-          "years": 5,
        }
     ],
     "contactUs":false
@@ -266,13 +286,13 @@ export const SERVICES = [
 export const PROJECTS = [
   {
     "id":"fountain",
-    "tag":"Ruby on Rails + ReactJS",
-    "title": "High Volume Hiring for the Global Workforce",
-    "landing": "https://i.ibb.co/rd3Db6V/fountain-1.png",
+    "tag":"Python + Django",
+    "title": "Deliver-Me",
+    "landing": "https://i.ibb.co/HLZjmVS8/11.jpg",
     "images":[
-      "https://i.ibb.co/BrdgTzr/fountain-2.png",
-      "https://i.ibb.co/yB6XpCK/fountain-3.png",
-      "https://i.ibb.co/Zd0M1g9/fountain-4.png",
+      "https://i.ibb.co/6c53FGmK/image-2025-04-21-T19-27-01-177-Z.png",
+      "https://i.ibb.co/WpNSFR8n/12.png",
+      "https://i.ibb.co/RnSXhz6/image-2025-04-21-T19-27-49-722-Z.png",
     ],
     "desc": [
       "Architecture and Design: Built a multi-tenant application using a microservices architecture for modularity, scalability, and maintainability, with isolated data and configurations for each tenant.",
@@ -281,9 +301,9 @@ export const PROJECTS = [
       "Customer Security: Incorporated advanced security protocols like WS-Security and OAuth to protect user data.",
       "Automation and Internationalization: Integrated advanced job processing with Sidekiq Enterprise, supporting prioritization, retries, and monitoring, while enabling seamless auto-translation for localization and global reach."
     ],
-    "link": "https://www.fountain.com",
+    "link": "https://www.deliver-me.com.au/",
     "techStack": [
-       "Ruby on Rails", "ReactJS", "NodeJS", "PostgreSQL", "MaterialUI", "Elasticsearch"
+       "Python", "Django", "ReactJS", "NodeJS", "PostgreSQL", "MaterialUI", "Elasticsearch"
     ],
     "utilities": [
     ],
