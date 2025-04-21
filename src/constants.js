@@ -155,7 +155,7 @@ export const MAIN = {
               "title":"",
               "org":"",
               "subtitle":"",
-              "desc":"Phone Number: +1 (609) 2414413"
+              "desc":"Phone Number: +1 (609) 241-4413"
             },
           ]
         },
